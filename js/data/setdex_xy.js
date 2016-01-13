@@ -895,14 +895,8 @@ var SETDEX_XY = {
 		"NU Spikes": {"level":100,"evs":{"df":160,"hp":252,"sp":96},"nature":"Impish","ability":"Aftermath","item":"Rocky Helmet","moves":["Spikes","Gunk Shot","Drain Punch","Toxic Spikes"]}
 	},
 	"Garchomp": {
-		"OU Tank Chomp": {"level":100,"evs":{"df":164,"hp":252,"sp":16,"sd":76},"nature":"Impish","ability":"Rough Skin","item":"Rocky Helmet","moves":["Stealth Rock","Earthquake","Dragon Tail","Fire Blast"]},
-		"OU Offensive Stealth Rock": {"level":100,"evs":{"df":4,"sp":252,"at":252},"nature":"Jolly","ability":"Rough Skin","item":"Lum Berry","moves":["Stealth Rock","Earthquake","Dragon Claw","Swords Dance"]},
-		"OU Substitute + Swords Dance": {"level":100,"evs":{"hp":12,"sp":252,"at":244},"nature":"Jolly","ability":"Rough Skin","item":"Salac Berry","moves":["Swords Dance","Earthquake","Dragon Claw","Substitute"]},
-		"OU Life Orb Mixed Attacker": {"level":100,"evs":{"sa":252,"sp":252,"at":4},"nature":"Naive","ability":"Rough Skin","item":"Life Orb","moves":["Draco Meteor","Earthquake","Fire Blast","Stealth Rock"]},
-		"OU Choice Scarf": {"level":100,"evs":{"df":4,"sp":252,"at":252},"nature":"Jolly","ability":"Rough Skin","item":"Choice Scarf","moves":["Earthquake","Outrage","Stone Edge","Dragon Claw"]},
-		"VGC15 Physical Attacker": {"level":50,"evs":{"hp":4,"sp":252,"at":252},"nature":"Jolly","ability":"Rough Skin","item":"Focus Sash","moves":["Dragon Claw","Earthquake","Rock Slide","Protect"]},
-		"VGC14 Physical Attacker": {"level":50,"evs":{"hp":4,"at":252,"sd":252},"nature":"Adamant","ability":"Rough Skin","item":"Focus Sash","moves":["Earthquake","Dragon Claw","Rock Slide","Protect"]},
-		"VGC14 Choice Scarf": {"level":50,"evs":{"hp":4,"sp":252,"at":252},"nature":"Adamant","ability":"Rough Skin","item":"Choice Scarf","moves":["Earthquake","Dragon Claw","Rock Slide","Iron Head"]}
+		"Lurechomp": {"level":50,"evs":{"hp":4,"at":252,"sp":252},"nature":"Jolly","ability":"Rough Skin","item":"Focus Sash","moves":["Outrage","Earthquake","Rock Tomb","Fire Blast"]},
+		"Choice Band": {"level":50,"evs":{"hp":4,"at":252,"sp":252},"nature":"Jolly","ability":"Rough Skin","item":"Choice Band","moves":["Outrage","Earthquake","Stone Edge","Fire Fang"]},
 	},
 	"Gardevoir": {
 		"OU Wallbreaker": {"level":100,"evs":{"df":24,"sa":232,"sp":252},"nature":"Timid","ability":"Trace","item":"Gardevoirite","moves":["Hyper Voice","Psyshock","Focus Blast","Calm Mind"]},
