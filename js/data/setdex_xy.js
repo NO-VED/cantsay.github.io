@@ -897,6 +897,7 @@ var SETDEX_XY = {
 	"Garchomp": {
 		"Lurechomp": {"level":50,"evs":{"hp":4,"at":252,"sp":252},"nature":"Jolly","ability":"Rough Skin","item":"Focus Sash","moves":["Outrage","Earthquake","Rock Tomb","Fire Blast"]},
 		"Choice Band": {"level":50,"evs":{"hp":4,"at":252,"sp":252},"nature":"Jolly","ability":"Rough Skin","item":"Choice Band","moves":["Outrage","Earthquake","Stone Edge","Fire Fang"]},
+		"Versatile Attacker (LO)": {"level":50,"evs":{"at":252,"sa":4,"sp":252},"nature":"Naive","ability":"Rough Skin","item":"Life Orb","moves":["Outrage","Earthquake","Fire Blast","Draco Meteor"]}
 	},
 	"Gardevoir": {
 		"OU Wallbreaker": {"level":100,"evs":{"df":24,"sa":232,"sp":252},"nature":"Timid","ability":"Trace","item":"Gardevoirite","moves":["Hyper Voice","Psyshock","Focus Blast","Calm Mind"]},
