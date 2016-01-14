@@ -16,24 +16,16 @@ var SETDEX_XY = {
 		"RU Spikes Lead": {"level":100,"evs":{"hp":252,"sp":252,"sa":4},"nature":"Timid","ability":"Sticky Hold","item":"Focus Sash","moves":["Spikes","Final Gambit","Encore","Bug Buzz"]}
 	},
 	"Aegislash-Blade": {
-		"Uber Specially Defensive": {"level":100,"evs":{"hp":252,"at":4,"sd":252},"ivs":{"sp":0},"nature":"Sassy","ability":"Stance Change","item":"Leftovers","moves":["King's Shield","Toxic","Gyro Ball","Pursuit"]},
-		"VGC15 Two Attacks": {"level":50,"evs":{"hp":252,"sa":100,"sd":156},"ivs":{"sp":0},"nature":"Quiet","item":"Leftovers","moves":["King's Shield","Substitute","Shadow Ball","Flash Cannon"]},
-		"VGC15 Three Attacks": {"level":50,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Weakness Policy","moves":["King's Shield","Shadow Ball","Flash Cannon","Shadow Sneak"]},
-		"VGC14 Special Attacker": {"level":50,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0},"nature":"Quiet","item":"Leftovers","moves":["King's Shield","Shadow Ball","Flash Cannon","Substitute"]},
-		"VGC14 Mixed Attacker": {"level":50,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Weakness Policy","moves":["King's Shield","Shadow Ball","Flash Cannon","Shadow Sneak"]},
-		"Doubles Wide Guard Tank": {"level":100,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0,"at":0},"nature":"Quiet","item":"Weakness Policy","moves":["Shadow Ball","Flash Cannon","Wide Guard","King's Shield"]},
-		"Doubles Life Orb": {"level":100,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Life Orb","moves":["Shadow Ball","Flash Cannon","Shadow Sneak","King's Shield"]},
-		"Doubles Substitute Leftovers": {"level":100,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0,"at":0},"nature":"Quiet","item":"Leftovers","moves":["Shadow Ball","Flash Cannon","Substitute","King's Shield"]}
+		"THE CRUMBLER [Special Attacker]": {"level":50,"evs":{"hp":252,"sd":4,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
+		"Substitute": {"level":50,"evs":{"hp":252,"sd":4,"sp":252},"nature":"Timid","ability":"Stance Change","item":"Leftovers","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
+		"Physical Attacker": {"level":50,"evs":{"hp":252,"sd":4,"at":252},"nature":"Adamant","ability":"Stance Change","item":"Life Orb","moves":["Iron Head","Shadow Sneak","Shadow Claw","Sacred Sword"]},
+		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"de":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
 	},
 	"Aegislash-Shield": {
-		"Uber Specially Defensive": {"level":100,"evs":{"hp":252,"at":4,"sd":252},"ivs":{"sp":0},"nature":"Sassy","ability":"Stance Change","item":"Leftovers","moves":["King's Shield","Toxic","Gyro Ball","Pursuit"]},
-		"VGC15 Two Attacks": {"level":50,"evs":{"hp":252,"sa":100,"sd":156},"ivs":{"sp":0},"nature":"Quiet","item":"Leftovers","moves":["King's Shield","Substitute","Shadow Ball","Flash Cannon"]},
-		"VGC15 Three Attacks": {"level":50,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Weakness Policy","moves":["King's Shield","Shadow Ball","Flash Cannon","Shadow Sneak"]},
-		"VGC14 Special Attacker": {"level":50,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0},"nature":"Quiet","item":"Leftovers","moves":["King's Shield","Shadow Ball","Flash Cannon","Substitute"]},
-		"VGC14 Mixed Attacker": {"level":50,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Weakness Policy","moves":["King's Shield","Shadow Ball","Flash Cannon","Shadow Sneak"]},
-		"Doubles Wide Guard Tank": {"level":100,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0,"at":0},"nature":"Quiet","item":"Weakness Policy","moves":["Shadow Ball","Flash Cannon","Wide Guard","King's Shield"]},
-		"Doubles Life Orb": {"level":100,"evs":{"sa":252,"hp":252,"at":4},"ivs":{"sp":0},"nature":"Quiet","item":"Life Orb","moves":["Shadow Ball","Flash Cannon","Shadow Sneak","King's Shield"]},
-		"Doubles Substitute Leftovers": {"level":100,"evs":{"hp":252,"sa":252,"sd":4},"ivs":{"sp":0,"at":0},"nature":"Quiet","item":"Leftovers","moves":["Shadow Ball","Flash Cannon","Substitute","King's Shield"]}
+		"THE CRUMBLER [Special Attacker]": {"level":50,"evs":{"hp":252,"sd":4,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
+		"Substitute": {"level":50,"evs":{"hp":252,"sd":4,"sp":252},"nature":"Timid","ability":"Stance Change","item":"Leftovers","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
+		"Physical Attacker": {"level":50,"evs":{"hp":252,"sd":4,"at":252},"nature":"Adamant","ability":"Stance Change","item":"Life Orb","moves":["Iron Head","Shadow Sneak","Shadow Claw","Sacred Sword"]},
+		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"de":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
 	},
 	"Aerodactyl": {
 		"OU OU All-Out Attacker": {"level":100,"evs":{"df":44,"sp":216,"at":248},"nature":"Jolly","ability":"Pressure","item":"Aerodactylite","moves":["Stone Edge","Aerial Ace","Fire Fang","Aqua Tail"]},
