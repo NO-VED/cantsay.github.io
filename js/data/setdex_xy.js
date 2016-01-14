@@ -19,13 +19,13 @@ var SETDEX_XY = {
 		"THE CRUMBLER [Special Attacker]": {"level":50,"evs":{"hp":252,"sd":4,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
 		"Substitute": {"level":50,"evs":{"hp":252,"sd":4,"sp":252},"nature":"Timid","ability":"Stance Change","item":"Leftovers","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
 		"Physical Attacker": {"level":50,"evs":{"hp":252,"sd":4,"at":252},"nature":"Adamant","ability":"Stance Change","item":"Life Orb","moves":["Iron Head","Shadow Sneak","Shadow Claw","Sacred Sword"]},
-		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"de":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
+		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"df":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
 	},
 	"Aegislash-Shield": {
 		"THE CRUMBLER [Special Attacker]": {"level":50,"evs":{"hp":252,"sd":4,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
 		"Substitute": {"level":50,"evs":{"hp":252,"sd":4,"sp":252},"nature":"Timid","ability":"Stance Change","item":"Leftovers","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]},
 		"Physical Attacker": {"level":50,"evs":{"hp":252,"sd":4,"at":252},"nature":"Adamant","ability":"Stance Change","item":"Life Orb","moves":["Iron Head","Shadow Sneak","Shadow Claw","Sacred Sword"]},
-		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"de":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
+		"ethan06's phys def": {"level":50,"evs":{"hp":252,"sd":4,"df":252},"ivs":{"sp":0},"nature":"Relaxed","ability":"Stance Change","item":"Weakness Policy","moves":["Shadow Ball","Shadow Sneak","Flash Cannon","Sacred Sword"]}
 	},
 	"Aerodactyl": {
 		"OU OU All-Out Attacker": {"level":100,"evs":{"df":44,"sp":216,"at":248},"nature":"Jolly","ability":"Pressure","item":"Aerodactylite","moves":["Stone Edge","Aerial Ace","Fire Fang","Aqua Tail"]},
@@ -223,11 +223,9 @@ var SETDEX_XY = {
 		"UU Dual Screens": {"level":100,"evs":{"hp":252,"sp":252,"at":4},"nature":"Jolly","ability":"Levitate","item":"Light Clay","moves":["Light Screen","Reflect","Taunt","Explosion"]}
 	},
 	"Azumarill": {
-		"OU Choice Band": {"level":100,"evs":{"hp":172,"sp":84,"at":252},"nature":"Adamant","ability":"Huge Power","item":"Choice Band","moves":["Play Rough","Waterfall","Aqua Jet","Superpower"]},
-		"OU Belly Drum": {"level":100,"evs":{"hp":92,"sp":164,"at":252},"nature":"Adamant","ability":"Huge Power","item":"Sitrus Berry","moves":["Belly Drum","Aqua Jet","Play Rough","Knock Off"]},
-		"OU Assault Vest": {"level":100,"evs":{"hp":240,"at":252,"sd":16},"nature":"Adamant","ability":"Huge Power","item":"Assault Vest","moves":["Play Rough","Waterfall","Aqua Jet","Knock Off"]},
-		"Doubles Megabus (Physical Attacker)": {"level":100,"evs":{"hp":164,"sp":92,"at":252},"nature":"Adamant","ability":"Huge Power","item":"Sitrus Berry","moves":["Play Rough","Waterfall","Aqua Jet","Protect"]},
-		"Doubles Choice Band": {"level":100,"evs":{"hp":164,"sp":92,"at":252},"nature":"Adamant","ability":"Huge Power","item":"Choice Band","moves":["Aqua Jet","Play Rough","Waterfall","Ice Punch"]}
+		"Belly Drum": {"level":50,"evs":{"hp":228,"at":252,"df":12,"sd":12,"sp":4},"nature":"Adamant","ability":"Huge Power","item":"Sitrus Berry","moves":["Play Rough","Waterfall","Aqua Jet","Superpower"]},
+		"Assault Vest": {"level":50,"evs":{"hp":228,"at":252,"df":12,"sd":12,"sp":4},"nature":"Adamant","ability":"Huge Power","item":"Assault Vest","moves":["Play Rough","Aqua Jet","Waterfall","Knock Off"]},
+		"Choice Band": {"level":50,"evs":{"hp":228,"at":252,"df":12,"sd":12,"sp":4},"nature":"Adamant","ability":"Huge Power","item":"Choice Band","moves":["Play Rough","Waterfall","Aqua Jet","Superpower"]}
 	},
 	"Azurill": {
 		"LC Trick Room Sweeper": {"level":5,"evs":{"df":116,"hp":116,"at":196,"sd":36},"ivs":{"sp":0},"nature":"Brave","ability":"Huge Power","item":"Life Orb","moves":["Return","Knock Off","Waterfall","Iron Tail"]}
